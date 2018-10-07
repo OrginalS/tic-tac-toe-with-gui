@@ -1,1 +1,1 @@
-# tic-tac-toe-with-gui
+# tic-tac-toe with gui
