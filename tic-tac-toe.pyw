@@ -3,8 +3,7 @@ from tkinter import messagebox
 root = Tk()
 move = 1
 one, two, three, four, five, six, seven, eight, nine = "", "", "", "", "", "", "", "", ""
-x_wins = 0
-o_wins = 0
+x_wins, o_wins = 0, 0
 score = StringVar()
 score.set("X "+str(x_wins)+" : "+str(o_wins)+" O")
 
